@@ -127,7 +127,7 @@ const data = {
     "Responsive Design"
   ],
   github: "https://github.com/yourusername/mediqr",
-  live: "https://mediqr.netlify.app",
+  live: "https://mediqr-f2fa24.netlify.app/",
   points: [
     "Developed a QR-based medical information system for storing and accessing patient details instantly.",
     "Implemented patient registration with validation for accurate healthcare record management.",
@@ -145,7 +145,7 @@ const data = {
         "Built a full-featured productivity app with task tracking, session logging, and visual analytics dashboards.",
         "Implemented data persistence and interactive charting for actionable progress visualization.",
       ],
-       github: "https://github.com/yourusername/mediqr",
+       github: "https://github.com/MdAkbar125/study-habit-tracker",
   live: "https://mediqr.netlify.app",
       icon: "📊",
       color: "#8b5cf6",
@@ -157,7 +157,7 @@ const data = {
       points: [
         "Designed and deployed a fully responsive portfolio showcasing projects, skills, and professional experience.",
       ],
-       github: "https://github.com/yourusername/mediqr",
+       github: "https://github.com/MdAkbar125/portfolio-2",
   live: "https://mediqr.netlify.app",
       icon: "🌐",
       color: "#10b981",
