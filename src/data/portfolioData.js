@@ -1,11 +1,11 @@
 // src/data/portfolioData.js
 const data = {
   name: "MD AKBAR",
-  title: "Front-End Developer",
+  title: "Web Developer",
   email: "mdakbar69999@gmail.com",
   phone: "+91 7995663762",
   location: "Hyderabad, India",
-  summary: "Motivated Front-End Developer and B.Tech Computer Science student (graduating 2027) with hands-on experience building AI-powered platforms, QR-based healthcare applications, and productivity tools. Proficient in React.js, JavaScript (ES6+), Python, and Flask. Recognized for technical excellence with a 2nd-place finish at the Technotsav National Hackathon.",
+  summary: "Motivated Web Developer and B.Tech Computer Science student (graduating 2027) with hands-on experience building AI-powered platforms, QR-based healthcare applications, and productivity tools. Proficient in React.js, JavaScript (ES6+), Python, and Flask. Recognized for technical excellence with a 2nd-place finish at the Technotsav National Hackathon.",
   experience: [
     {
       company: "Proxenix",
@@ -70,6 +70,29 @@ const data = {
     ],
   },
   projects: [
+    {
+    name: "Full-Stack E-Commerce Platform",
+    subtitle: "Full-Stack E-Commerce Web Application",
+    stack: [
+      "React.js",
+      "JavaScript",
+      "Node.js",
+      "REST APIs",
+      "MongoDB",
+      "Git",
+      "GitHub"
+    ],
+    github: "https://github.com/MdAkbar125/portfolio-2",
+    live: "https://shop-ecommerce-ak.netlify.app/",
+    points: [
+      "Built a responsive full-stack e-commerce web application using React.js with interactive product browsing and shopping cart functionality.",
+      "Developed and integrated REST APIs using Node.js for user authentication, product management, and cart operations.",
+      "Implemented secure authentication and protected API routes while managing application data using MongoDB.",
+      "Used Git and GitHub for version control and deployed the application using Netlify and Render."
+    ],
+    icon: "🛒",
+    color: "#10b981",
+  }
     {
       name: "CodePlay Pro",
       subtitle: "AI-Powered Web Development Platform",
